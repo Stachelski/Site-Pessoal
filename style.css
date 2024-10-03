@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    font-family: Cambria, Cochin, 'Georgia', Times, Times New Roman, serif;
+    background-color: rgb(10, 26, 41);
+    color:azure;
+}
+
+.header_index{
+    background-color: black;
+    color:azure;
+    text-align: center;
+}
+
+.text{
+    padding:  40px;
+    margin-inline: auto;
+    max-width: 980px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color:rgb(171, 197, 245);
+    border-radius: 32px;
+}
+
+
+
+.instagram{
+    padding:  40px;
+    margin-inline: auto;
+    max-width: 980px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color:rgb(171, 197, 245);
+    border-radius: 32px;
+    }
+    .btn{
+        background-color: rgb(10, 26, 41);
+        border: 2px solid rgb(171, 197, 245);
+        color:azure;
+        
+        margin-bottom: 15px;
+        margin-inline: auto;
+        padding: 10px;
+        text-decoration: rgb(21, 60, 94);
+        width: 120px;
+        border-radius: 10px;
+    }
+
+.footer_index{
+    background-color: black;
+    color:azure;
+    text-align: center;
+    padding: 20px;
+}
